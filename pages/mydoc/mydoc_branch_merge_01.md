@@ -54,5 +54,60 @@ When deciding on an SCM strategy, you should first decide what a branch represen
 
 ![]({{site.baseurl}}/mydoctheme/images/branch_types.png)
 
+Deciding on the best branching strategy is a balancing act. You must trade off productivity gains against increased risk. One way to validate a chosen strategy is to consider a scenario of change. For example, if you decide to align branches with the system architecture (for example, a branch represents a system component) and you expect significant architectural changes, you might have to restructure your branches and associated processes and policies with each change. Choosing an inadequate branching strategy can cause process overheads and lengthy integration and release cycles that prove frustrating for the whole team.
+
+## Common Branching Strategies
+_This section outlines common branching strategies. The intention is not to provide specific guidance, but to stimulate ideas and demonstrate the importance of carefully planning your branching strategy._
+
+### Branch per Release
+
+One of the most common branching strategies is to align branches with product releases, as shown in Figure 2. A branch holds all the software development assets for a single release. Occasionally, you must merge updates from one release to another, but they usually never merge. You discontinue a branch when you discontinue its release.
+
+![]({{site.baseurl}}/mydoctheme/images/branch-1.gif)
+
+### Code-Promotion Branches
+Another very common approach is to align branches with software asset promotion levels, as shown in Figure 3. A specific development version is branched off into a Test branch, at which all the integration and system testing is performed. When you complete testing, the software development assets are branched into the Production branch and ultimately deployed.
+
+![]({{site.baseurl}}/mydoctheme/images/branch-2.gif)
+
+During the testing effort, you update the development code base as you find and fix bugs. You merge the changed code into the Development branch when you promote the tested code into production.
+
+## Branch per Task
+
+To avoid overlapping tasks (or activities) and a loss in productivity, you can isolate a task on a separate branch, as shown in Figure 4. These branches should be short-term branches that you merge as soon as you complete the task; otherwise, the merging effort required might exceed the productivity benefits of creating a separate branch for a task.
+
+![]({{site.baseurl}}/mydoctheme/images/branch-3.gif)
+
+### Branch per Component
+You could align each branch with the system architecture as shown in Figure 5. In this strategy, you branch off individual components (or subsystems). Then each team developing a component decides when to merge their code back into the development line that serves as the integration branch.
+
+![]({{site.baseurl}}/mydoctheme/images/branch-4.gif)
+
+This strategy can work well if system architecture is in place and the individual components have well-defined interfaces. The fact that you develop components on branches enables more fine-grained control over software development assets.
+
+### Branch per Technology
+Figure 6 shows another branching strategy aligned with the system architecture. Here you align the branches to technology platforms. Common code is managed on a separate branch.
+![]({{site.baseurl}}/mydoctheme/images/branch-5.gif)
+
+Because of the unique nature of the software development assets managed on the branches, you will probably never merge the branches.
+
+There are many other options for structuring branches, but I hope it is obvious by now that planning the implementation of a branching strategy is worthwhile and can return significant benefits.
+
+## Branching and Merging Anti-Patterns
+
+You know you are on the wrong track if you experience one or more of the following symptoms in your development environment:
+
+- Merge Paranoia—avoiding merging at all cost, usually because of a fear of the consequences.
+- Merge Mania—spending too much time merging software assets instead of developing them.
+- Big Bang Merge—deferring branch merging to the end of the development effort and attempting to merge all branches simultaneously.
+- Never-Ending Merge—continuous merging activity because there is always more to merge.
+- Wrong-Way Merge—merging a software asset version with an earlier version.
+- Branch Mania—creating many branches for no apparent reason.
+- Cascading Branches—branching but never merging back to the main line.
+- Mysterious Branches—branching for no apparent reason.
+- Temporary Branches—branching for changing reasons, so the branch becomes a permanent temporary workspace.
+- Volatile Branches—branching with unstable software assets shared by other branches or merged into another branch.
+
+
 
 {% include links.html %}
