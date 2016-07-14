@@ -33,8 +33,6 @@ Post the completion of this project, Weblogic Deployments will be handled by a s
 
 ## TAX Weblogic Deployment Architecture
 
-{% include image.html file="weblogic-arch.jpg"  alt="Jekyll" caption="Weblogic Deployment Arch" %"}
-
 
 If you want people to collaborate on your project so that their edits get committed to a branch on your project, you need to add them as collaborators. For your Github repo, click **Settings** and add the collaborators on the Collaborators tab using their Github usernames.
 
