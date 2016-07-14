@@ -44,4 +44,8 @@ A branching and merging strategy involves a tradeoff between risk and productivi
 Using branches provides better isolation and control of individual software assets and increases productivity, because teams or individuals can work in parallel. However, using branches also requires an increase in merge activities and therefore risk, because you must later reassemble branches into a whole.
 Unfortunately, there is no such thing as a free lunch!
 
+## Branches
+When deciding on an SCM strategy, you should first decide what a branch represents. We frequently align branches with system architectures, organizational units, or work breakdown structures (WBS), as summarized in Figure 1.
+![branches]({{site.baseurl}}/images/IC79488.gif)
+
 {% include links.html %}
