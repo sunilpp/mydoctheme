@@ -53,7 +53,7 @@ entries:
       output: web, pdf
 
     - title: 5.0 Release notes
-      url: /mydoc_release_notes_50.html
+      url: /mydoc_branch_merge_01.html
       output: web, pdf
     
     - title: 6.0 Release notes
