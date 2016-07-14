@@ -52,18 +52,7 @@ When deciding on an SCM strategy, you should first decide what a branch represen
 
 ## Example of branching Statergies
 
-|  -------    Branch Type   -----       |	      -----     Aligns with    -------                 |
-|---------------------------------|------------------------------------------------------------------|
-| change request (or enhancement)			|	Work breakdown structure (WBS)	 |
-| task (or an activity)					|	Work breakdown structure (WBS)	 |
-| line of development for a particular (sub)project	|	Work breakdown structure (WBS)	 |
-| specific integration effort for a (sub)project	|	Work breakdown structure (WBS)	 |
-| particular release of a product			|	Work breakdown structure (WBS)	 |
-| maintenance effort for a specific (sub)project	|	Work breakdown structure (WBS)	 |
-| single product feature or function			|	System Architecture		 |
-| system, a subsystem or a system component		|	System Architecture		 |
-| whole project team					|	Organizational Structure	 |
-| project team member					|	Organizational Structure	 |
+![]({{site.baseurl}}/mydoctheme/images/branch_types.png)
 
 
 {% include links.html %}
