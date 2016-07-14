@@ -46,6 +46,8 @@ Unfortunately, there is no such thing as a free lunch!
 
 ## Branches
 When deciding on an SCM strategy, you should first decide what a branch represents. We frequently align branches with system architectures, organizational units, or work breakdown structures (WBS), as summarized in Figure 1.
+
+**Basing a branching strategy on architecture, organization, or work**
 ![branches]({{site.baseurl}}/mydoctheme/images/IC79488.gif)
 
 {% include links.html %}
