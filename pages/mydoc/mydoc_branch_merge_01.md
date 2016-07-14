@@ -72,7 +72,7 @@ Another very common approach is to align branches with software asset promotion 
 
 During the testing effort, you update the development code base as you find and fix bugs. You merge the changed code into the Development branch when you promote the tested code into production.
 
-## Branch per Task
+### Branch per Task
 
 To avoid overlapping tasks (or activities) and a loss in productivity, you can isolate a task on a separate branch, as shown in Figure 4. These branches should be short-term branches that you merge as soon as you complete the task; otherwise, the merging effort required might exceed the productivity benefits of creating a separate branch for a task.
 
