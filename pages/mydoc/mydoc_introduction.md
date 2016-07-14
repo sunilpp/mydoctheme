@@ -8,7 +8,7 @@ published: true
 ## Services
 
 - Software Builds
-- Deployment of code to our environments
+- Setup Code Deploymentsto All environments
 - Jenkins/Quick build and Application configuration updates
 - Troubleshooting of automation scripts, build and/or deployments
 - Create, test, and maintain automated build/deployment scripts
@@ -37,8 +37,7 @@ published: true
 - 1 week advance for Production/Customer Staging/DR.
 - Self service for non prod and Devlopment environment (2 business days in advance for QA if assistance required ,Only 1 request is needed for QA per release)
 
-
-We understand that it is hard to determine an exact date.  A ticket can be submitted with an estimated date, we mainly want to know that a release is coming soon.For QA, only one ticket will be required for that release, in the event another build/deployment is needed.  Please e-mail/call the build team with the services/application needed to be built/deployed and reference the current QA OPAS request.
+> We understand that it is hard to determine an exact date.  A ticket can be submitted with an estimated date, we mainly want to know that a release is coming soon.For QA, only one ticket will be required for that release, in the event another build/deployment is needed.  Please e-mail/call the build team with the services/application needed to be built/deployed and reference the current QA OPAS request.
 
 ## Workflow :
 - OPAS request is created with the release form/Build & Deployment instructions filled in and attached to the ticket.
