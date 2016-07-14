@@ -109,6 +109,6 @@ You know you are on the wrong track if you experience one or more of the followi
 - Temporary Branches—branching for changing reasons, so the branch becomes a permanent temporary workspace.
 - Volatile Branches—branching with unstable software assets shared by other branches or merged into another branch.
 
-
+Source  :[Branching & Merging Primer](https://msdn.microsoft.com/en-us/library/aa730834(VS.80).aspx)
 
 {% include links.html %}
