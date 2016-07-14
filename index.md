@@ -44,6 +44,8 @@ published: true
 - A notification must be given to the build team in advance so that resources can be allocated appropriately.
 - 1 week advance for Production/Customer Staging/DR.
 - Self service for non prod and Devlopment environment (2 business days in advance for QA if assistance required ,Only 1 request is needed for QA per release)
+- 
+   {% include note.html content="In the \_includes/mydoc folder, there's a taglogic.html file. This file (included in each tag archive file) has common logic for getting the tags and listing out the pages containing the tag in a table with summaries or truncated excerpts. You don't have to do anything with the file &mdash; just leave it there because the tag archive pages reference it." %}
 
 > We understand that it is hard to determine an exact date.  A ticket can be submitted with an estimated date, we mainly want to know that a release is coming soon.For QA, only one ticket will be required for that release, in the event another build/deployment is needed.  Please e-mail/call the build team with the services/application needed to be built/deployed and reference the current QA OPAS request.
 
