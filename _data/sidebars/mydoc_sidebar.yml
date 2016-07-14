@@ -47,7 +47,10 @@ entries:
   - title: Source Code Mgt
     output: web, pdf
     folderitems:
-
+	 - title: Branching & Merging Stds
+      url: /mydoc_branch_merge_01.html
+      output: web, pdf
+      
     - title: 6.0 Release notes
       url: /mydoc_release_notes_60.html
       output: web, pdf
