@@ -4,16 +4,16 @@ url: sunilpp.github.io mydoctheme
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Jekyll Documentation Theme
+topnav_title: DevOps Enterprise
 # this appears on the top navigation bar next to the home button
 
-site_title: Jekyll theme for documentation
+site_title: DevOps Enterprise
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Your company
+company_name: CoreLogic
 # this appears in the footer
 
-github_editme_path: tomjohnson1492/documentation-theme-jekyll/blob/gh-pages/pages/
+github_editme_path: sunilpp/documentation-theme-jekyll/blob/gh-pages/pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 disqus_shortname: idrbwjekyll
@@ -30,7 +30,7 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_email: tomjohnson1492@gmail.com
+feedback_email: psunil@corelogic.com
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
