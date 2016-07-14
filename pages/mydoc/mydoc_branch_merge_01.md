@@ -52,8 +52,8 @@ When deciding on an SCM strategy, you should first decide what a branch represen
 
 ## Example of branching Statergies
 
-|               Branch Type       |	           Aligns with                     |
-|-------------------------|-------------------------------------------------------------------------|
+|               Branch Type          |	           Aligns with                     |
+|---------------------------------|------------------------------------------------------------------|
 | change request (or enhancement)			|	Work breakdown structure (WBS)	 |
 | task (or an activity)					|	Work breakdown structure (WBS)	 |
 | line of development for a particular (sub)project	|	Work breakdown structure (WBS)	 |
