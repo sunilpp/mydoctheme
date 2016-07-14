@@ -10,21 +10,22 @@ permalink: mydoc_commenting_on_files.html
 folder: mydoc
 ---
 
-## About the review process
+## Java Application Build –EAR/WAR
 
-If you're using the doc as code approach, you might also consider using the same techniques for reviewing the doc as people use in reviewing code. This approach will involve using Github to edit the files.
+TAX’s Weblogic Ecosystem contains multiple Clusters per environment and then replicated across all environments, the 160+ applications in scope for TAX Delegate Migration are logically grouped and run on various clusters part of the Weblogic servers.
 
-There's an Edit me button on each page on this theme. This button allows collaborators to edit the content on Github.
+http://knowit.corelogic.net/doku.php?id=dcm:dcm-adminconsoles  > TAX > Weblogic
 
-Here's the code for that button on the page.html layout:
+While using Delegate , Deployment on various Weblogic environments was done using individual shell scripts specific to each environment and the procedure was to copy the WAR/Portlet files between Environments (Dev > Test > Stage > Prod) and then trigger a Restart Cluster using Server specific shell scripts.
+
+Post the completion of this project, Weblogic Deployments will be handled by a single generic perl script which has been configured to toggle between all environments as part of TAX Business Unit. The new script uses WLST to deploy applications and uses another generic script to handle Cluster Restarts. Also, the restart has been improved to do rolling restarts instead of the full restart which old shell scripts were using. This ensures zero down time on the cluster even during the deployment
+
+
 
 {% raw %}
 ```
-{% unless jekyll.environment == "production" %}
+/apps/home/builder/tax/bin/wl-deploy.pl <GroupID> <ArtifactID> <Version> <Cluster> <Restart Required?> <Workspace>  <WLEnv> <Env> <Apptype(EAR/WAR/Portlet)> <ManagedServers>  
 
-    {% if site.github_editme_path %}
-
-    <a target="_blank" href="https://github.com/{{site.github_editme_path}}/{{page.folder}}{{page.url | append: ".md"}}{% endif %}" class="btn btn-default githubEditButton" role="button"><i class="fa fa-github fa-lg"></i> Edit me</a>
 ```
 {% endraw %}
 
