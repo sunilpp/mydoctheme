@@ -47,7 +47,7 @@ published: true
 
 > We understand that it is hard to determine an exact date.  A ticket can be submitted with an estimated date, we mainly want to know that a release is coming soon.For QA, only one ticket will be required for that release, in the event another build/deployment is needed.  Please e-mail/call the build team with the services/application needed to be built/deployed and reference the current QA OPAS request.
 
-## Workflow :
+## B&R Workflow
 - OPAS request is created with the release form/Build & Deployment instructions filled in and attached to the ticket.
 - Build Team Manager/Lead will review the ticket and approve/assign  if the ticket is complete.
 - The Build Engineer will perform the build/release.
