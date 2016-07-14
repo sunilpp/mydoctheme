@@ -1,0 +1,1 @@
+Summary: An introduction to the concept of software configuration management including information about why configuration management is important, and the various branching and merging strategies. (6 printed pages)
