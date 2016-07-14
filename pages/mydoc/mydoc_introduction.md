@@ -4,24 +4,55 @@ sidebar: mydoc_sidebar
 permalink: mydoc_introduction.html
 folder: mydoc
 ---
+#Services
+- Software Builds
+- Deployment of code to our environments
+- Jenkins/Quick build and Application configuration updates
+- Troubleshooting of automation scripts, build and/or deployments
+- Create, test, and maintain automated build/deployment scripts
+- Repository management
+- User creation on our tools platform
+- Quick build – Allows for build and deployment of artifacts
+- Nexus – Allows for upload of artifacts
+- Appstore – Mobile builds
+- Sonar – Code Quality Analysis
+- Trouble ticket system – OPAS
+- Version One – Project tracking and Team speed Assessment
 
-## Overview
+#Build Service Catalog
 
-This site provides documentation, training, and other notes for the Jekyll Documentation theme. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme. But by and large, understanding how to do things in Jekyll depends on how your theme is coded. As a result, these additional details are provided.
+- Continuous Builds & deployments
+- Nightly build
+- Release Builds
+- Automated QA tasks
+- Reporting
+- Dev Tools integrations
+- Code coverage (Flexcover , Corbetura etc..)
+- Project reports (maven Dashboard etc...)
 
-The instructions here are geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this same theme to author all of your documentation for each of your products. The theme is built to accommodate documentation for multiple products on the same site.
+#Build Request Process
 
-## Survey of features
+- A notification must be given to the build team in advance so that resources can be allocated appropriately.
+- 1 week advance for Production/Customer Staging/DR.
+- Self service for non prod and Devlopment environment (2 business days in advance for QA if assistance required ,Only 1 request is needed for QA per release)
 
-Some of the more prominent features of this theme include the following:
+We understand that it is hard to determine an exact date.  A ticket can be submitted with an estimated date, we mainly want to know that a release is coming soon.For QA, only one ticket will be required for that release, in the event another build/deployment is needed.  Please e-mail/call the build team with the services/application needed to be built/deployed and reference the current QA OPAS request.
 
-* Bootstrap framework
-* [Navgoco multi-level sidebar](http://www.komposta.net/article/navgoco) for table of contents
-* Ability to specify different sidebars for different products
-* Top navigation bar with drop-down menus
-* Notes, tips, and warning information notes
-* Tags for alternative navigation
-* Advanced landing page layouts from the [Modern Business theme](http://startbootstrap.com/template-overviews/modern-business/).
+#Workflow :
+- OPAS request is created with the release form/Build & Deployment instructions filled in and attached to the ticket.
+- Build Team Manager/Lead will review the ticket and approve/assign  if the ticket is complete.
+- The Build Engineer will perform the build/release.
+- The Build Engineer will notify the submitter and application team of completion and standby for confirmation from the QA tester.
+- If there are any issues or if a rollback is required, the Build Engineer will be available to support.
+- All issues will be recorded in the release form and the problem list log.
+- Once the request has been completed and any issues have been resolved, the ticket will be set to complete.
+#Normal Process
+ - At least 2 business days advance notice in order to get resources in line to work on request.
+ - Resource will be assigned and this will be communicated to requestor within one Business day.
+ 
+#Emergency Build/Deploy
+ - Problem is discovered and needs immediate action - Resource available or on call engineer will take on responsibility of getting everything needed in place and will either take care of the request or will make sure transition information is in place.
+ - Release is causing production outage -Available build engineer resource will work on issue or on-call engineer.
 
 ## Getting started
 
