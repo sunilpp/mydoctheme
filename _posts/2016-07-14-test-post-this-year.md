@@ -1,5 +1,5 @@
 ---
-title:  "Launching soon - Corelogic Enterprise Mobile App Store"
+title:  "Corelogic Enterprise Mobile App Store Launch"
 published: true
 permalink: samplepost.html
 summary: "This is some summary frontmatter for my sample post."
