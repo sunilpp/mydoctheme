@@ -55,9 +55,11 @@ published: true
 - If there are any issues or if a rollback is required, the Build Engineer will be available to support.
 - All issues will be recorded in the release form and the problem list log.
 - Once the request has been completed and any issues have been resolved, the ticket will be set to complete.
+
 ## Normal Process
  - At least 2 business days advance notice in order to get resources in line to work on request.
  - Resource will be assigned and this will be communicated to requestor within one Business day.
+ 
 ## Emergency Build/Deploy
  - Problem is discovered and needs immediate action - Resource available or on call engineer will take on responsibility of getting everything needed in place and will either take care of the request or will make sure transition information is in place.
  - Release is causing production outage -Available build engineer resource will work on issue or on-call engineer.
