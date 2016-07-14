@@ -41,7 +41,10 @@ JEKYLL_ENV=production jekyll serve
 In your configuration file, edit the value for `github_editme_path`. For example, you might create a branch called "reviews" on your Github repo. Then you would add something like this in your configuration file for the 'github_editme_path': tomjohnson1492/documentation-theme-jekyll/edit/reviews. Here "tomjohnson1492" is my github account name. The repo name is "documentation-theme-jekyll". The "reviews" name is the branch.
 
 
-## Add reviewers as collaborators
+## TAX Weblogic Deployment Architecture
+
+{% include image.html file="weblogic-arch.jpg"  alt="Jekyll" caption="Weblogic Deployment Arch" %"}
+
 
 If you want people to collaborate on your project so that their edits get committed to a branch on your project, you need to add them as collaborators. For your Github repo, click **Settings** and add the collaborators on the Collaborators tab using their Github usernames.
 
