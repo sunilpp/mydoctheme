@@ -28,17 +28,7 @@ Post the completion of this project, Weblogic Deployments will be handled by a s
 ```
 {% endraw %}
 
-This code is only active if you're publishing in a development environment, which is the default.
 
-To activate the production environment, add the [production environment flag](http://jekyllrb.com/docs/configuration/) in your build command:
-
-{% raw %}
-```
-JEKYLL_ENV=production jekyll serve
-```
-{% endraw %}
-
-In your configuration file, edit the value for `github_editme_path`. For example, you might create a branch called "reviews" on your Github repo. Then you would add something like this in your configuration file for the 'github_editme_path': tomjohnson1492/documentation-theme-jekyll/edit/reviews. Here "tomjohnson1492" is my github account name. The repo name is "documentation-theme-jekyll". The "reviews" name is the branch.
 
 
 ## TAX Weblogic Deployment Architecture
