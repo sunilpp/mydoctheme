@@ -5,10 +5,7 @@ tags:
 keywords: 'release notes, announcements, what''s new, new features'
 last_updated: 'July 3, 2016'
 summary: >-
-  Version 5.0 of the Documentation theme for Jekyll changes some fundamental
-  ways the theme works to provide product-specific sidebars, intended to
-  accommodate a site where multiple products are grouped together on the same
-  site rather than generated out as separate outputs.
+  An introduction to the concept of software configuration management including information about why configuration management is important, and the various branching and merging strategies.
 sidebar: mydoc_sidebar
 permalink: mydoc_branch_merge_01.html
 folder: mydoc
