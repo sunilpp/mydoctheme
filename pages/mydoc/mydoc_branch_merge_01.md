@@ -87,6 +87,7 @@ This strategy can work well if system architecture is in place and the individua
 
 ### Branch per Technology
 Figure 6 shows another branching strategy aligned with the system architecture. Here you align the branches to technology platforms. Common code is managed on a separate branch.
+
 ![]({{site.baseurl}}/mydoctheme/images/branch-5.gif)
 
 Because of the unique nature of the software development assets managed on the branches, you will probably never merge the branches.
