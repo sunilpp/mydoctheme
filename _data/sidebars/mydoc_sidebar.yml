@@ -85,7 +85,7 @@ entries:
 
     folderitems:
     - title: Nexus Artifct Mgmt
-      url: /mydoc_pages.html
+      url: /nexus.html
       output: web, pdf
 
     - title: SonarCube
