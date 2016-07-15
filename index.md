@@ -10,7 +10,6 @@ summary: >-
   overview of the process and standards followed and regarding the tools and
   frameworks used to implement the services/solutions . 
 published: true
-![]({{site.baseurl}}/mydoctheme/images/logo.png)
 ---
 
 
