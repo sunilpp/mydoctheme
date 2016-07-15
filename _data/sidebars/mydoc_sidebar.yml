@@ -89,11 +89,11 @@ entries:
       output: web, pdf
 
     - title: SonarCube
-      url: /mydoc_posts.html
+      url: /sonar.html
       output: web, pdf
 
     - title: Veracode
-      url: /mydoc_lists.html
+      url: /veracode.html
       output: web, pdf
 
     - title: Mobile AppStore
