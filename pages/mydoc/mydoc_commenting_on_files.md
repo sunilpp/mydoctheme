@@ -19,7 +19,7 @@ published: true
   <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="about">
     <h2>About</h2>
-<p>Praesent sit amet fermentum leo. Aliquam feugiat, nibh in u ltrices mattis, felis ipsum venenatis metus, vel vehicula libero mauris a enim. Sed placerat est ac lectus vestibulum tempor. Quisque ut condimentum massa. Proin venenatis leo id urna cursus blandit. Vivamus sit amet hendrerit metus.</p>
+<p>Praris a enim. Sed placerat est ac lectus vestibulum tempor. Quisque ut condimentum massa. Proin venenatis leo id urna cursus blandit. Vivamus sit amet hendrerit metus.</p>
 </div>
 
 <div role="tabpanel" class="tab-pane" id="migratewindow">
