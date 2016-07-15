@@ -220,7 +220,7 @@ entries:
       url: /mydoc_commenting_on_files.html
       output: web, pdf
       
-    - title: CapitalMarkets (RiskModel)
+    - title: CapitalMarkets RiskModel
       url: /mydoc_commenting_on_files.html
       output: web, pdf
       
