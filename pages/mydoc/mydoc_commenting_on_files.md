@@ -23,6 +23,7 @@ folder: mydoc
 
 <div role="tabpanel" class="tab-pane" id="migratewindow">
     <h2>Migration Windows</h2>
+    <p>
    <table border="0" class="bodyTable">
 <tbody><tr class="a">
 <td align="center">Region</td>
@@ -59,6 +60,7 @@ folder: mydoc
 <td align="left">2330-0030</td>
 <td align="left">0430-0630</td>
 <td align="left">1200-1300</td></tr></tbody></table>
+</p>
    </div>
 
 <div role="tabpanel" class="tab-pane" id="contact">
