@@ -1,17 +1,17 @@
 ---
-title: About Ruby, Gems, Bundler, and other prerequisites
-tags: [getting_started, troubleshooting]
+title: Enterprise jenkins 
+tags: [getting_started, jenkins, cloudbees]
 keywords:
-summary: "Ruby is a programming language you must have on your computer in order to build Jekyll locally. Ruby has various gems (or plugins) that provide various functionality. Each Jekyll project usually requires certain gems."
+summary: "The CloudBees Jenkins Platform is the industry’s most proven, fully featured technology platform for implementing continuous integration (CI) and continuous delivery (CD).The CloudBees Jenkins Platform is powered by the Jenkins open source automation and orchestration technology and the leading CI/CD platform"
 sidebar: mydoc_sidebar
-permalink: mydoc_about_ruby_gems_etc.html
+permalink: enterprisejenkins.html
 folder: mydoc
 ---
 
-## About Ruby
+## About CloudBees Jenkins Platform Enterprise Edition
 
-Jekyll runs on Ruby, a programming language. You have to have Ruby on your computer in order to run Ruby-based programs like Jekyll. Ruby is installed on the Mac by default, but you must add it to Windows.
-
+[Cloudbees Features](http://pages.cloudbees.com/rs/cloudbees/images/Jenkins-Enterprise-by-CloudBees-Plugins-Ebook.pdf)
+[Cloudbees Feature Comparison](https://www.cloudbees.com/products/cloudbees-jenkins-platform#compare)
 ## About Ruby Gems
 
 Ruby has a number of plugins referred to as "gems." Just because you have Ruby doesn't mean you have all the necessary Ruby gems that your program needs to run. Gems provide additional functionality for Ruby programs. There are thousands of [Rubygems](https://rubygems.org/) available for you to use.
