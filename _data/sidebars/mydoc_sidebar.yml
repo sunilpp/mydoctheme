@@ -116,7 +116,7 @@ entries:
       url: /mydoc_atom_text_editor.html
       output: web, pdf
 
-  - title: Artifact Mgt
+  - title: Build&Release Metrics
     output: web, pdf
 
     folderitems:
