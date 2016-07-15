@@ -184,14 +184,54 @@ entries:
       url: /mydoc_workflow_maps.html
       output: web, pdf
 
-  - title: Products
+  - title: BU / ProductLines
     output: web, pdf
 
     folderitems:
-    - title: Commenting on files
+    - title: CoreLogic Escrow Tax Services
       url: /mydoc_commenting_on_files.html
       output: web, pdf
-
+    
+    - title: CoreLogic CREDCO
+      url: /mydoc_commenting_on_files.html
+      output: web, pdf
+      
+     - title: CIS North Applications 
+      url: /mydoc_commenting_on_files.html
+      output: web, pdf
+    
+    - title: CIS South Applications 
+      url: /mydoc_commenting_on_files.html
+      output: web, pdf
+      
+    - title: CoreLogic MultiFamily
+      url: /mydoc_commenting_on_files.html
+      output: web, pdf
+    
+    - title: CoreLogic MTS
+      url: /mydoc_commenting_on_files.html
+      output: web, pdf
+      
+     - title: CoreLogic DocSolutions
+      url: /mydoc_commenting_on_files.html
+      output: web, pdf
+    
+    - title: CoreLogic AgentAchieve 
+      url: /mydoc_commenting_on_files.html
+      output: web, pdf
+      
+    - title: CapitalMarkets (RiskModel)
+      url: /mydoc_commenting_on_files.html
+      output: web, pdf
+      
+     - title: CoreLogic Markelinx
+      url: /mydoc_commenting_on_files.html
+      output: web, pdf
+    
+    - title: TAX Mainframe 
+      url: /mydoc_commenting_on_files.html
+      output: web, pdf
+      
 #    - title: Git collaboration
 #      url: /mydoc_git_collaboration
 #      output: web, pdf
