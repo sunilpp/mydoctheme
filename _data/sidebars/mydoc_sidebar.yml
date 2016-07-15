@@ -97,7 +97,7 @@ entries:
       output: web, pdf
 
     - title: Mobile AppStore
-      url: /mydoc_conditional_logic.html
+      url: /appstore.html
       output: web, pdf
 
     - title: Docker registry
