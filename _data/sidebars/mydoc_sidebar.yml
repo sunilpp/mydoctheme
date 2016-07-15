@@ -52,15 +52,19 @@ entries:
       url: /mydoc_branch_merge_01.html
       output: web, pdf
 
-    - title: 5.0 Release notes
+    - title: Maven Builds
       url: /mydoc_branch_merge_01.html
       output: web, pdf
     
-    - title: 6.0 Release notes
+    - title: .Net builds
       url: /mydoc_release_notes_60.html
       output: web, pdf
 
-    - title: 5.0 Release notes
+    - title: Windows Installers
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
+      
+    - title: Mobile Builds
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
