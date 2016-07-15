@@ -77,7 +77,7 @@ entries:
       output: web, pdf
 
     - title: QuickBuild CI
-      url: /mydoc_install_jekyll_on_mac.html
+      url: /quickbuild.html
       output: web, pdf
    
   - title: Build Systems
