@@ -2,12 +2,13 @@
 title: CoreLogic Escrow Tax Services
 tags:
   - navigation
-keywords: "annotations, comments, feedback"
-last_updated: "November 30, 2016"
-summary: "You can add a button to your pages that allows people to add comments."
+keywords: 'annotations, comments, feedback'
+last_updated: 'November 30, 2016'
+summary: You can add a button to your pages that allows people to add comments.
 sidebar: mydoc_sidebar
 permalink: mydoc_commenting_on_files.html
 folder: mydoc
+published: true
 ---
 
 <ul id="profileTabs" class="nav nav-tabs">
@@ -23,7 +24,7 @@ folder: mydoc
 
 <div role="tabpanel" class="tab-pane" id="migratewindow">
     <h2>Migration Windows</h2>
-    <p>
+    <p> some text
    <table border="0" class="bodyTable">
 <tbody><tr class="a">
 <td align="center">Region</td>
