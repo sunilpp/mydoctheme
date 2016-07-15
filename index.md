@@ -12,7 +12,7 @@ summary: >-
 published: true
 ---
 
-![]({{site.baseurl}}/logo.png)
+![]({{site.baseurl}}/mydoctheme/logo.png)
 ## Services
 
 - Software Builds
