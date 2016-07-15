@@ -73,7 +73,7 @@ entries:
     folderitems:
 
     - title: Enterprise Jenkins.
-      url: /mydoc_about_ruby_gems_etc.html
+      url: /enterprisejenkins.html
       output: web, pdf
 
     - title: QuickBuild CI
