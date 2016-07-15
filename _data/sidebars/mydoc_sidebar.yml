@@ -184,6 +184,7 @@ entries:
       url: /mydoc_workflow_maps.html
       output: web, pdf
 
+
   - title: Product Lines
     output: web, pdf
 
@@ -196,7 +197,7 @@ entries:
       url: /mydoc_commenting_on_files.html
       output: web, pdf
       
-     - title: CIS North Applications 
+    - title: CIS North Applications 
       url: /mydoc_commenting_on_files.html
       output: web, pdf
     
@@ -212,7 +213,7 @@ entries:
       url: /mydoc_commenting_on_files.html
       output: web, pdf
       
-     - title: CoreLogic DocSolutions
+    - title: CoreLogic DocSolutions
       url: /mydoc_commenting_on_files.html
       output: web, pdf
     
@@ -224,7 +225,7 @@ entries:
       url: /mydoc_commenting_on_files.html
       output: web, pdf
       
-     - title: CoreLogic Markelinx
+    - title: CoreLogic Markelinx
       url: /mydoc_commenting_on_files.html
       output: web, pdf
     
@@ -235,6 +236,7 @@ entries:
 #    - title: Git collaboration
 #      url: /mydoc_git_collaboration
 #      output: web, pdf
+
 
   - title: Help
     output: web, pdf
