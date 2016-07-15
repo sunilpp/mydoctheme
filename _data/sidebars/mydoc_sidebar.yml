@@ -210,7 +210,7 @@ entries:
       output: web, pdf
     
     - title: CoreLogic MTS
-      url: /mydoc_commenting_on_files.html
+      url: /corelogicMTS.html
       output: web, pdf
       
     - title: CoreLogic DocSolutions
