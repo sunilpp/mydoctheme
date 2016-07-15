@@ -184,7 +184,7 @@ entries:
       url: /mydoc_workflow_maps.html
       output: web, pdf
 
-  - title: BU / ProductLines
+   - title: Product Lines
     output: web, pdf
 
     folderitems:
