@@ -8,7 +8,7 @@ keywords: null
 summary: >-
   Powerful continuous integration and deployment server
 sidebar: mydoc_sidebar
-permalink: qucikbuild.html
+permalink: quickbuild.html
 folder: mydoc
 published: true
 ---
