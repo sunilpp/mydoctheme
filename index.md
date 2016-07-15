@@ -12,7 +12,8 @@ summary: >-
 published: true
 ---
 
-![]({{site.baseurl}}/mydoctheme/logo.png)
+![]({{site.baseurl}}/mydoctheme/images/logo.png)
+
 ## Services
 
 - Software Builds
