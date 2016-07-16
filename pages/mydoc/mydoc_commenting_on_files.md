@@ -34,6 +34,7 @@ published: true
     <p>Vel vehicula libero mauris a enim. Sed placerat est ac lectus vestibulum tempor. Quisque ut condimentum massa. Proin venenatis leo id urna cursus blandit. Vivamus sit amet hendrerit metus.</p>
 </div>
 </div>
+
 ## Migration Window for TAX 
 
  <table border="0" class="bodyTable">
