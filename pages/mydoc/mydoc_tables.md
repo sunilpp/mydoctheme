@@ -25,7 +25,9 @@ $(document).ready(function(){
 {% endunless %}
 
 
-x
+def render(context)
+   "<iframe width=\"#{@width}\" height=\"#{@height}\" src=\"http://www.youtube.com/embed/#{@id}\" frameborder=\"0\">        </iframe>"
+end
 
 ## Multimarkdown Tables
 
