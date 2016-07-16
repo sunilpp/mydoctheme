@@ -70,6 +70,42 @@ published: true
 </div>
 </div>
 
+ <table border="0" class="bodyTable">
+<tbody><tr class="a">
+<td align="center">Region</td>
+<td align="center">UTC</td>
+<td align="center">1hr</td>
+<td align="center">1hr</td>
+<td align="center">2hr</td>
+<td align="left">1hr</td></tr>
+<tr class="b">
+<td align="left">US</td>
+<td align="left">GMT-6</td>
+<td align="left">0800-0900</td>
+<td align="left">1200-1300</td>
+<td align="left">1700-1900</td>
+<td align="left">0030-0130</td></tr>
+<tr class="a">
+<td align="left">Poland</td>
+<td align="left">GMT+1</td>
+<td align="left">1500-1600</td>
+<td align="left">1900-2000</td>
+<td align="left">0000-0200</td>
+<td align="left">0730-0830</td></tr>
+<tr class="b">
+<td align="left">India</td>
+<td align="left">GMT+5.30</td>
+<td align="left">1830-1930</td>
+<td align="left">2230-2330</td>
+<td align="left">0330-0530</td>
+<td align="left">1030-1130</td></tr>
+<tr class="a">
+<td align="left">India</td>
+<td align="left">GMT+5.30</td>
+<td align="left">1930-2030</td>
+<td align="left">2330-0030</td>
+<td align="left">0430-0630</td>
+<td align="left">1200-1300</td></tr></tbody></table>
 ## Java Application Build –EAR/WAR
 
 TAX’s Weblogic Ecosystem contains multiple Clusters per environment and then replicated across all environments, the 160+ applications in scope for TAX Delegate Migration are logically grouped and run on various clusters part of the Weblogic servers.
