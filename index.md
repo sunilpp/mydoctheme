@@ -10,6 +10,8 @@ summary: >-
   overview of the process and standards followed and regarding the tools and
   frameworks used to implement the services/solutions . 
 published: true
+toc: false
+folder: mydoc
 ---
 
 <a href="{{ site.github.repository_url }}/tree/gh-pages/{{ page.relative_path }}">Edit this page in Github</a>
