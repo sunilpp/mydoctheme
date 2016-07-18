@@ -10,18 +10,23 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Jekyll Resources
+    - title: DevOps Resources
       folderitems:
-        - title: Github Repo
-          external_url: https://github.com/tomjohnson1492/documentation-theme-jekyll
-        - title: Jekyll Talk
-          external_url: https://talk.jekyllrb.com
-        - title: Jekyll documentation
-          external_url: http://jekyllrb.com/docs/home/
-        - title: Jekyll on Stack Overflow
-          external_url: http://stackoverflow.com/questions/tagged/jekyll
-        - title: Jekyll on my blog
-          external_url: http://idratherbewriting.com/category-jekyll/
+        - title: Enterprise Jenkins 
+          external_url: https://jkci.corelogic.net/
+        - title: Nexus2 Repository 
+          external_url: https://repo.corelogic.net/nexus/#welcome
+        - title: Nexus3 Repository
+          external_url: https://repo2.corelogic.net/
+        - title: Sonar 
+          external_url: https://sonarci.corelogic.net/
+        - title: CoreLogic Github Repo
+          external_url: https://github.com/corelogic
+        - title: Jenkins Sandbox  
+          external_url: https://dev-jkci.corelogic.net/
+        - title: Cloud Desktop   
+          external_url: https://desktop.pingone.com/corelogic/
+          
     - title: Products
       folderitems:
         - title: Jekyll Documentation Theme
