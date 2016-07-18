@@ -52,4 +52,5 @@ NuGet is the package manager for the Microsoft development platform including .N
 ### References 
 
 [https://books.sonatype.com/nexus-book/3.0/reference/](https://books.sonatype.com/nexus-book/3.0/reference/)
+
 [https://books.sonatype.com/nexus-book/3.0/reference/security.html](https://books.sonatype.com/nexus-book/3.0/reference/security.html)
