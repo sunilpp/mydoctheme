@@ -56,7 +56,7 @@ folder: mydoc
                      </span>
                  </div>
                  <div class="panel-body">
-                     <h4>Standards & Best Practices</h4>
+                     <h4>Build Standards</h4>
                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                      <a href="tag_single_sourcing.html" class="btn btn-primary">Learn More</a>
                  </div>
