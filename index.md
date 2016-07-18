@@ -14,11 +14,7 @@ published: true
 
 <a href="{{ site.github.repository_url }}/tree/gh-pages/{{ page.relative_path }}">Edit this page in Github</a>
 
-
 <div class="row">
-         <div class="col-lg-12">
-             <h2 class="page-header">Knowledge Base Categories</h2>
-         </div>
          <div class="col-md-3 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
