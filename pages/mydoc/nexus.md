@@ -13,4 +13,18 @@ folder: mydoc
 published: true
 ---
 
-##  Nexus Repository (OSS version)
+##  Nexus Repository 
+
+```
+[Nexus url ](https://repo.corelogic.net/nexus/index.html#welcome)
+```
+##  Nexus Repository Standards 
+
+### Artifact Naming Convention
+
+### Artifact Folder structure Convention 
+
+### Automated Artifact Mgmt in Nexus 
+
+### Manualy Push an Artifact to Nexus 
+
