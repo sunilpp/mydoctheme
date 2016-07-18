@@ -12,8 +12,7 @@ summary: >-
 published: true
 ---
 
-
-Please <a href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}">help improve this article</a>.
+<a href="{{ site.github.repository_url }}/tree/master/{{ page.relative_path }}">Edit this page in Github</a>
 
 ## Services
 
