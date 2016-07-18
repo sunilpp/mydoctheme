@@ -1,5 +1,5 @@
 ---
-title: Branching and Merging Primer
+title: Branching and Merging Standard
 tags:
   - getting_started
 keywords: 'release notes, announcements, what''s new, new features'
