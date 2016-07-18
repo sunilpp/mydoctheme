@@ -15,16 +15,13 @@ published: true
 
 ##  Nexus Repository (Sonatype Nexus™ 2 )
 
-```
 [Nexus2 url ](https://repo.corelogic.net/nexus/index.html#welcome)
 
-```
 ##  Nexus Repository (Sonatype Nexus™ 3 )
-```
 
 [Nexus2 url ](https://repo2.corelogic.net/)
 
-```
+
  {% include tip.html content=" Please use your ISC credentials to login " %}
 
 ##  Nexus Repository Standards 
