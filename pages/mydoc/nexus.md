@@ -33,3 +33,23 @@ published: true
 
 ### Manualy Push an Artifact to Nexus 
 
+## Nexus 2 Advanced Features 
+
+### Nexus for Docker 
+
+### Docker for NuGet 
+[https://www.nuget.org/](https://www.nuget.org/)
+NuGet is the package manager for the Microsoft development platform including .NET. The NuGet client tools provide the ability to produce and consume packages. The NuGet Gallery is the central package repository used by all package authors and consumers.
+
+### Nexus for Custom repo
+
+###Nexus for bower
+
+###Nexus for NPM
+
+### Nexus for RAW 
+
+### References 
+
+[https://books.sonatype.com/nexus-book/3.0/reference/](https://books.sonatype.com/nexus-book/3.0/reference/)
+[https://books.sonatype.com/nexus-book/3.0/reference/security.html](https://books.sonatype.com/nexus-book/3.0/reference/security.html)
