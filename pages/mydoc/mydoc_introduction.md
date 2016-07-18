@@ -5,6 +5,9 @@ permalink: mydoc_introduction.html
 folder: mydoc
 published: true
 ---
+
+![]({{site.baseurl}}/mydoctheme/images/CI_CD_Core.png) 
+
 ## Services
 
 - Software Builds
