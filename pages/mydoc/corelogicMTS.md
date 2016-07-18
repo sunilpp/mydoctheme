@@ -1,7 +1,7 @@
 ---
 title: MTS Documentaion
 tags:
-  - getting_started
+  - product_lines,MTS
   - jenkins
   - cloudbees
 keywords: null
