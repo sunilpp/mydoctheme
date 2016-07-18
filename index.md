@@ -27,7 +27,7 @@ folder: mydoc
                  </div>
                  <div class="panel-body">
                      <h4>Product Lines</h4>
-                     <p>Build/Deploy Documentation for ALL Business Units  </p>
+                     <p>Build/Deploy Documentation</p>
                      <a href="tag_getting_started.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
@@ -72,7 +72,7 @@ folder: mydoc
                  </div>
                  <div class="panel-body">
                      <h4>Build Metrics</h4>
-                     <p>Detailed build Metrics for all products</p>
+                     <p>Detailed Build Metrics for all products</p>
                      <a href="tag_formatting.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
