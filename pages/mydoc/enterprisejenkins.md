@@ -16,6 +16,7 @@ permalink: enterprisejenkins.html
 folder: mydoc
 published: true
 ---
+<a href="{{ site.github.repository_url }}/tree/gh-pages/{{ page.relative_path }}">Edit this page in Github</a>
 
 ## About CloudBees Jenkins Platform Enterprise Edition
 
