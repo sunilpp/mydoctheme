@@ -12,7 +12,7 @@ summary: >-
 published: true
 ---
 
-<a href="{{ site.github.repository_url }}/tree/master/{{ page.relative_path }}">Edit this page in Github</a>
+<a href="{{ site.github.repository_url }}/tree/gh-pages/{{ page.relative_path }}">Edit this page in Github</a>
 
 ## Services
 
