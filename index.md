@@ -27,7 +27,7 @@ folder: mydoc
                  </div>
                  <div class="panel-body">
                      <h4>Product Lines</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                     <p>Documenation for resp. Business Units can be found here </p>
                      <a href="tag_getting_started.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
@@ -42,7 +42,7 @@ folder: mydoc
                  </div>
                  <div class="panel-body">
                      <h4>DevOps Tools</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                     <p>Information on all the build & DevOps tools/platforms</p>
                      <a href="tag_navigation.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
@@ -57,7 +57,7 @@ folder: mydoc
                  </div>
                  <div class="panel-body">
                      <h4>Build Standards</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                     <p>Builod Process, Standards and Best Practices</p>
                      <a href="tag_single_sourcing.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
@@ -72,7 +72,7 @@ folder: mydoc
                  </div>
                  <div class="panel-body">
                      <h4>Build Metrics</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                     <p>Detailed build Metrics for all products</p>
                      <a href="tag_formatting.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
