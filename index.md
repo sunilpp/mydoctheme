@@ -82,29 +82,13 @@ folder: mydoc
 
 ## Services
 
-- Software Builds
-- Setup Code Deploymentsto All environments
-- Jenkins/Quick build and Application configuration updates
-- Troubleshooting of automation scripts, build and/or deployments
-- Create, test, and maintain automated build/deployment scripts
-- Repository management
-- User creation on our tools platform
-- Quick build – Allows for build and deployment of artifacts
-- Nexus – Allows for upload of artifacts
+- Software Builds & Code Deployments
+- Jenkins/QuickBuild CI/CD Setup
+- Create/Test/Maintain Automated Build/Deployment scripts
+- Build Artifacts Management
+- User Mgmt on DevOps Tools and Platforms
 - Appstore – Mobile builds
 - Sonar – Code Quality Analysis
-- Trouble ticket system – OPAS
-- Version One – Project tracking and Team speed Assessment
-
-## Build Service Catalog
-- Continuous Builds & deployments
-- Nightly build
-- Release Builds
-- Automated QA tasks
-- Reporting
-- Dev Tools integrations
-- Code coverage (Flexcover , Corbetura etc..)
-- Project reports (maven Dashboard etc...)
 
 ## Build Request Process
 
@@ -130,9 +114,5 @@ folder: mydoc
 ## Emergency Build/Deploy
  - Problem is discovered and needs immediate action - Resource available or on call engineer will take on responsibility of getting everything needed in place and will either take care of the request or will make sure transition information is in place.
  - Release is causing production outage -Available build engineer resource will work on issue or on-call engineer.
-
-## Other instructions
-
-The content here is just a getting started guide only. For other details in working with the theme, see the various sections in the sidebar.
 
 {% include links.html %}
