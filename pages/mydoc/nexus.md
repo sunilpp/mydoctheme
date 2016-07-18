@@ -43,9 +43,9 @@ NuGet is the package manager for the Microsoft development platform including .N
 
 ### Nexus for Custom repo
 
-###Nexus for bower
+### Nexus for bower
 
-###Nexus for NPM
+### Nexus for NPM
 
 ### Nexus for RAW 
 
