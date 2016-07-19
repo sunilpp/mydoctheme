@@ -1,7 +1,7 @@
 ---
 title: QuickBuild CI Tool
 tags:
-  - getting_started
+  - devops_tools
   - QB
   - QuickBuild
 keywords: null
