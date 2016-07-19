@@ -1,7 +1,7 @@
 ---
 title: Veracode
 tags:
-  - getting_started
+  - devops_tools
   - veracode
   - Code security
 keywords: null
