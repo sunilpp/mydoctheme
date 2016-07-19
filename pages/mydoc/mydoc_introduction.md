@@ -1,5 +1,7 @@
 ---
 title: Introduction
+tags:
+  - best_practices
 sidebar: mydoc_sidebar
 permalink: mydoc_introduction.html
 folder: mydoc
