@@ -190,23 +190,23 @@ entries:
 
     folderitems:
     - title: CoreLogic Escrow Tax Services
-      url: /mydoc_commenting_on_files.html
+      url: /corelogicTax.html
       output: web, pdf
     
     - title: CoreLogic CREDCO
-      url: /mydoc_commenting_on_files.html
+      url: /corelogicCredco.html
       output: web, pdf
       
     - title: CIS North Applications 
-      url: /mydoc_commenting_on_files.html
+      url: /corelogicCISNorth.html
       output: web, pdf
     
     - title: CIS South Applications 
-      url: /mydoc_commenting_on_files.html
+      url: /corelogicCISSouth.html
       output: web, pdf
       
     - title: CoreLogic MultiFamily
-      url: /mydoc_commenting_on_files.html
+      url: /corelogicMultifamily.html
       output: web, pdf
     
     - title: CoreLogic MTS
@@ -214,23 +214,26 @@ entries:
       output: web, pdf
       
     - title: CoreLogic DocSolutions
-      url: /mydoc_commenting_on_files.html
+      url: /corelogicDocSolutions.html
       output: web, pdf
     
     - title: CoreLogic AgentAchieve 
-      url: /mydoc_commenting_on_files.html
+      url: /corelogicAgentAchieve.html
       output: web, pdf
       
     - title: CapitalMarkets RiskModel
-      url: /mydoc_commenting_on_files.html
+      url: /corelogicCapitalMarkets.html
       output: web, pdf
       
     - title: CoreLogic Markelinx
-      url: /mydoc_commenting_on_files.html
+      url: /corelogicMarketLinx.html
       output: web, pdf
     
     - title: TAX Mainframe 
-      url: /mydoc_commenting_on_files.html
+      url: /corelogicMainframe.html
+      output: web, pdf
+    - title: CoreLogic Mobility 
+      url: /mobility.html
       output: web, pdf
       
 #    - title: Git collaboration
