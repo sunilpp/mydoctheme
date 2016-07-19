@@ -1,7 +1,7 @@
 ---
 title: Branching and Merging Standard
 tags:
-  - getting_started
+  - best_practices
 keywords: 'release notes, announcements, what''s new, new features'
 last_updated: 'July 3, 2016'
 summary: >-
