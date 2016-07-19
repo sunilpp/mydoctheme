@@ -28,7 +28,7 @@ folder: mydoc
                  <div class="panel-body">
                      <h4>Product Lines</h4>
                      <p>Build/Deploy Documentation</p>
-                     <a href="tag_getting_started.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_product_lines.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -43,7 +43,7 @@ folder: mydoc
                  <div class="panel-body">
                      <h4>DevOps Tools</h4>
                      <p>Build/DevOps Tools and platforms</p>
-                     <a href="tag_navigation.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_devops_tools.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -58,7 +58,7 @@ folder: mydoc
                  <div class="panel-body">
                      <h4>Build Standards</h4>
                      <p>Build/DevOps Process and Best Practices</p>
-                     <a href="tag_single_sourcing.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_best_practices.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -73,7 +73,7 @@ folder: mydoc
                  <div class="panel-body">
                      <h4>Build Metrics</h4>
                      <p>Detailed Build Metrics for all products</p>
-                     <a href="tag_formatting.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_build_metrics.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
