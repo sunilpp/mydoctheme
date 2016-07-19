@@ -1,4 +1,3 @@
-
 ---
 title: "DevOps Tools and Platforms "
 tagName: devops_tools
