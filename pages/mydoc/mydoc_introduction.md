@@ -10,9 +10,6 @@ folder: mydoc
 published: true
 ---
 
-![]({{site.baseurl}}/mydoctheme/images/CI_CD_Core.png) 
-
-
 ## Build Request Process
 
 - A notification must be given to the build team in advance so that resources can be allocated appropriately.
