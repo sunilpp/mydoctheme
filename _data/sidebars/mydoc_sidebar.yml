@@ -28,7 +28,7 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Introduction
+    - title: Build & Release Process
       url: /mydoc_introduction.html
       output: web, pdf
 
@@ -36,11 +36,11 @@ entries:
       url: /mydoc_supported_features.html
       output: web, pdf
 
-    - title: About the theme author
+    - title: Build Team
       url: /mydoc_about.html
       output: web, pdf
 
-    - title: Support
+    - title: Support Hours
       url: /mydoc_support.html
       output: web, pdf
 
