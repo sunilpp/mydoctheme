@@ -1,6 +1,6 @@
 ---
 title: CoreLogic Escrow Tax Services
-tags:
+tags: product_lines
   - navigation
 keywords: 'annotations, comments, feedback'
 last_updated: 'November 30, 2016'
