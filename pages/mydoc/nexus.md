@@ -1,7 +1,7 @@
 ---
 title: Nexus Artifact Managment System
 tags:
-  - getting_started
+  - devops_tools
   - Nexus
   - Artifact Mgmt
 keywords: null
