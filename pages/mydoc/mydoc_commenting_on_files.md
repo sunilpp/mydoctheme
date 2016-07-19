@@ -1,7 +1,8 @@
 ---
 title: CoreLogic Escrow Tax Services
-tags: product_lines
+tags:
   - navigation
+  - product_lines 
 keywords: 'annotations, comments, feedback'
 last_updated: 'November 30, 2016'
 summary: You can add a button to your pages that allows people to add comments.
