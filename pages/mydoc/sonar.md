@@ -1,7 +1,7 @@
 ---
 title: Sonar
 tags:
-  - getting_started
+  - devops_tools
   - jenkins
   - cloudbees
 keywords: null
