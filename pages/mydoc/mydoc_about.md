@@ -1,8 +1,24 @@
+---
+title: Build Team
+tags:
+  - Build Team 
+  - jenkins
+  - cloudbees
+keywords: null
+summary: >-
+    This Metrics shows the various level of CI /CD maturity across applications in the organization  .
+sidebar: mydoc_sidebar
+permalink: mydoc_about.html
+folder: mydoc
+published: true
+---
+
 
 ## Build Team Onshore 
 
-#### Manager - Sunil Padmanabhan         psunil@corelogic.com			7145867988
-#### Manager offshore - Santosh, Panigrahi        pansantosh@corelogic.com		
+Manager - Sunil Padmanabhan         psunil@corelogic.com			7145867988
+
+Manager offshore - Santosh, Panigrahi        pansantosh@corelogic.com		
 
 Amrita Raj                ramrita@corelogic.com		
 
