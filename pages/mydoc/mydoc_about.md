@@ -9,14 +9,31 @@ permalink: mydoc_about.html
 folder: mydoc
 ---
 
-My name is Tom Johnson, and I'm a technical writer, blogger, and podcaster based in San Jose, California. My blog is here: [http://idratherbewriting.com](http://idratherbewriting.com). I write several posts there a week. See [my blog's about page](http://idratherbewriting.com/aboutme/) for more details about me.
 
-I have used this theme and variations of it for various documentation projects. This theme has undergone several major iterations, and now it's fairly stable and full of all the features that I need. You are welcome to use it for your documentation projects for free.
+## Build Team Onshore 
 
-I think this theme does pretty much everything that you can do with something like OxygenXML, but without the constraints of structured authoring. Everything is completely open and changeable, so if you start tinkering around with the theme's files, you can break things. But it's completely empowering as well!
+#### Manager - Sunil Padmanabhan         psunil@corelogic.com			7145867988
 
-With a completely open architecture and code base, you can modify the code to make it do exactly what you want, without having to jump through all kinds of confusing or proprietary code.
+#### Manager offshore - Santosh, Panigrahi        pansantosh@corelogic.com		
 
-If there's a feature you need but it isn't available here, let me know and I might add it. Alternatively, if you fork the theme, I would love to see your modifications and enhancements.
+Amrita Raj                ramrita@corelogic.com					
+Balaji, Chebrolu          chbalaji@corelogic.com			
+Dhirendra, Singh          sdhirendra@corelogic.com			
+Sachin Vijendra           sachin.vijendra@cognizant.com			
+Srinivasarao Tungala      tsrinivasarao@corelogic.com		
+Sudhakar Reddy            resudhakar@corelogic.com			
+Suresh Seshuguru          seshu.suresh@cognizant.com				
+Tarakant, Sethy           starakant@corelogic.com			
+Somnath - NEW 
+Zuby [Next week]
+
+## Onshore
+
+Wen Zhao                  wzhao@corelogic.com					
+John Nguyen               johnnguyen@corelogic.com				
+Ken Godoy                 kgodoy@corelogic.com				
+
+
+
 
 {% include links.html %}
