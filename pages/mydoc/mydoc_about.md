@@ -14,11 +14,13 @@ published: true
 ---
 
 
-## Build Team Onshore 
+## Build Team  
 
-Manager - Sunil Padmanabhan         psunil@corelogic.com			7145867988
+Manager onshore  - Sunil Padmanabhan         psunil@corelogic.com			7145867988
 
 Manager offshore - Santosh, Panigrahi        pansantosh@corelogic.com		
+
+## Offshore
 
 Amrita Raj                ramrita@corelogic.com		
 
