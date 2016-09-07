@@ -17,7 +17,10 @@ published: true
 ## Jekyll 
 
 Jekyll is configured and running on bnrqn1vpcdmst02
-The main website for this theme  : [http://idratherbewriting.com/documentation-theme-jekyll/](http://idratherbewriting.com/documentation-theme-jekyll/)
+
+The main website for this theme  :
+
+[http://idratherbewriting.com/documentation-theme-jekyll/](http://idratherbewriting.com/documentation-theme-jekyll/)
 
 ## Start jekyll 
 
