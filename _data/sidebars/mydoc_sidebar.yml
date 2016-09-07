@@ -115,6 +115,11 @@ entries:
     - title: Apache SuperHost
       url: /apache_superhost.html
       output: web, pdf
+      
+    - title: Jekyll
+      url: /jekyll.html
+      output: web, pdf
+  
 
   - title: Product Lines
     output: web, pdf
