@@ -42,3 +42,15 @@ Listen  10.209.10.16:443
     ProxyPassReverse  / http://10.216.2.77:7081/
 
 ```
+
+Also make sure the firewalls are open from the apache to the master server CDMSTXX
+
+### Step 4:
+
+ Request for a VIP   with the Apache IP’s as the pool members  , port as 80 and 443  , LB Algorithm  - least used  . – Dell networking and firewall team  .
+
+### Step 5 :
+
+ Add a DNS record for the VIP IP.
+
+
