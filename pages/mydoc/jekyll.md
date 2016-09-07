@@ -1,3 +1,17 @@
+---
+title: Jekyll
+tags:
+  - build_metrics 
+  - Jekyll
+  - Documentaion
+keywords: null
+summary: >-
+    Content aware documentaion using jekyll  .
+sidebar: mydoc_sidebar
+permalink: jekyll.html
+folder: mydoc
+published: true
+---
 
 
 ##Jekyll 
