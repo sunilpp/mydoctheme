@@ -29,3 +29,16 @@ Plumb the IP to the Server - Dell INTEL team ticket.
 Use an example template like build.corelogic.net.conf
 Ex :
 
+```
+Listen  10.209.10.16:443
+<VirtualHost 10.209.10.16:443>
+    DocumentRoot "/apps/WWW/build.corelogic.net/htdocs"
+    ServerName build.corelogic.net
+    ServerAdmin cws@corelogic.com
+    RewriteEngine on
+    RewriteOptions Inherit
+
+   ProxyPass         / http://10.216.2.77:7081/ connectiontimeout=300 timeout=300
+    ProxyPassReverse  / http://10.216.2.77:7081/
+
+```
