@@ -6,7 +6,7 @@ tags:
   - Documentaion
 keywords: null
 summary: >-
-    Content aware documentaion using jekyll  .
+    Content aware documentaion using jekyll  .This is  based on http://idratherbewriting.com/documentation-theme-jekyll/
 sidebar: mydoc_sidebar
 permalink: jekyll.html
 folder: mydoc
@@ -17,6 +17,7 @@ published: true
 ## Jekyll 
 
 Jekyll is configured and running on bnrqn1vpcdmst02
+The main website for this theme  : [http://idratherbewriting.com/documentation-theme-jekyll/](http://idratherbewriting.com/documentation-theme-jekyll/)
 
 ## Start jekyll 
 
